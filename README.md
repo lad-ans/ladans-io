@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @layndev
-- 👀 I’m interested in Dart-Flutter, NodeJs, Mongo, SQL, .NET, Android Kotlin, Tech Startup, Code Adventure :)
-- 🌱 I’m currently learning kotlin and .NET framework
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Dart-Flutter, .NET, Android-Kotlin, NodeJs, SQL Server, MySQL, PostgreSQL, Mongo, Firebase, Tech Startup, Code Adventure :)
+- 🌱 I’m currently learning Android Jatpack Compose (Kotlin on Android UI)
+- 💞️ I’m looking to collaborate on Flutter, .NET Projects and Android Native projects
 - 📫 How to reach me: ladino.anselmo@gmail.com
 
 <!---
