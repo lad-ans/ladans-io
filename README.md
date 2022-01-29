@@ -1,7 +1,7 @@
-:clap Hi! I'am Ladino Anselmo
+👋🏽 Hi! I'am Ladino Anselmo
 =====================
 
-## My interests :dev
+## My interests 👨🏾‍💻
 - Dart - Flutter 
 - .NET
 - Android - Kotlin (On Jetpack Compose) 
@@ -14,7 +14,7 @@
 - Tech Startup 
 - Code Adventure :smile
 
-## Architecture :build
+## Architecture 📐
 - Full architecture with responsibility separation concerns, SOLID and Clean Code
 - Test Driven Development (TDD)
 - Data Driven
