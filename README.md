@@ -12,7 +12,7 @@
 - Mongo 
 - Firebase 
 - Tech Startup 
-- Code Adventure :smile
+- Code Adventure 😊
 
 ## Architecture 📐
 - Full architecture with responsibility separation concerns, SOLID and Clean Code
