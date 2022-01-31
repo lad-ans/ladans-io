@@ -19,7 +19,7 @@
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" >
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></a>
   <a href="https://firebase.google.com" target="_blank" >
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"></a>
+  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" >
   <img align="center" alt="SQL Server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
 </div>
@@ -37,7 +37,7 @@
 - Tech Startup 
 - Code Adventure 😊
 
-## Architecture 📐
+## Architecture
 - Full architecture with responsibility separation concerns, SOLID and Clean Code
 - Test Driven Development (TDD)
 - Data Driven
