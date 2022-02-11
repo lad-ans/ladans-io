@@ -55,6 +55,9 @@
   <a href="https://t.me/layndev" target="_blank" style="target-new: tab;">
     <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a> 
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ladino-anselmo-0b0898231" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mz.linkedin.com/in/ladino-anselmo-0b0898231?trk=profile-badge">Ladino Anselmo</a></div>
+  <a href="https://www.linkedin.com/in/ladino-anselmo-0b0898231/" target="_blank" style="target-new: tab;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a> 
+</div>
               
 </div>
