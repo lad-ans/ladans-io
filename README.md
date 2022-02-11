@@ -48,6 +48,8 @@
 - Repository and Generic Repository
 
   ## Reach me!
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ladino-anselmo-0b0898231"     data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mz.linkedin.com/in/ladino-anselmo-0b0898231?trk=profile-badge">Ladino Anselmo</a></div>
+              
  <div> 
   <a href = "mailto:ladino.anselmo@gmail.com" target="_blank" style="target-new: tab;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
