@@ -2,7 +2,7 @@
 
 What is the Supervaga Web API Project?
 =====================
-The Supervaga Project is a Web API project written in .NET Core for Super Vaga iOS <a href="https://apps.apple.com/mz/developer/ladino-anselmo-arnaldo/id1591706007" target="_blank" > <img align="center" alt="Super Vaga app on Apple Store" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"> </a>
+The Supervaga Project is a Web API written in .NET Core for Super Vaga iOS <a href="https://apps.apple.com/mz/developer/ladino-anselmo-arnaldo/id1591706007" target="_blank" > <img align="center" alt="Super Vaga app on Apple Store" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"> </a>
    and Android App <a href="https://play.google.com/store/apps/dev?id=5684520659897537418" target="_blank" > <img align="center" alt="Super Vaga app on Apple Store" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></a>
 
 ## Give a Star! ⭐️:
@@ -40,4 +40,4 @@ If you liked the project or if Supervaga helped you, please give a star ⭐️
 
 
 ## About:
-The Supervaga Project was developed by [Ladino Anselmo](http://t.me/layndev) under the [MIT license](LICENSE).
+The Supervaga Project was developed by [Ladino Anselmo](http://t.me/layndev) under the [MIT license](https://opensource.org/licenses/MIT).
