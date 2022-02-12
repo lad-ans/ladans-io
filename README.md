@@ -9,7 +9,7 @@
 </div>
   
 <!--  Technologies  -->
-<div style="display: inline_block"><br>
+<div style="display: inline_block; align: center"><br>
   <a href="https://dart.dev/" target="_blank" ><img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a>
   <a href="https://flutter.dev/" target="_blank" ><img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
   <a href="https://kotlinlang.org/" target="_blank" >
