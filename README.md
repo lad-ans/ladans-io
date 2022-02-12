@@ -52,7 +52,7 @@
 - CQRS (Imediate Consistency)
 - Repository and Generic Repository
 
-  ## Reach me!    
+## Reach me!    
  <div> 
   <a href = "mailto:ladino.anselmo@gmail.com" target="_blank" style="target-new: tab;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
