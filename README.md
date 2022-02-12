@@ -25,8 +25,13 @@
 </div>
 
 ## My interests 👨🏾‍💻
-- Dart - Flutter 
+- Dart 
+- Flutter 
 - .NET
+- C#
+- Asp .Net Core MVC
+- Blazor Web Assembly
+- Blazor Web Server
 - Android - Kotlin (On Jetpack Compose) 
 - NodeJs 
 - SQL Server 
@@ -58,6 +63,4 @@
   <a href="https://www.linkedin.com/in/ladino-anselmo-0b0898231/" target="_blank" style="target-new: tab;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a> 
-</div>
-              
 </div>
