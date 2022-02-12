@@ -1,68 +1,44 @@
-👋🏽 Hi! I'am Ladino Anselmo
+<img src="https://play-lh.googleusercontent.com/EjXjJUZWxktiHSdfn-pX8StDrHtxLtEfL6Wp-IoSfVUyDYdgQiigAP2Zt8RxIDUsDHo=w330-h160" alt="Supervaga Project"> 
+
+What is the Supervaga Project?
 =====================
+The Supervaga Project is a eb API project written in .NET Core for Super Vaga iOS <img align="center" alt="Super Vaga app on Apple Store" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"></a>
+  <a href="https://apps.apple.com/mz/developer/ladino-anselmo-arnaldo/id1591706007" target="_blank" > and Android App <img align="center" alt="Super Vaga app on Apple Store" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></a>
+  <a href="https://play.google.com/store/apps/dev?id=5684520659897537418" target="_blank" >
 
-<!-- Statistic -->
-<div align="center">
-  <a href="https://github.com/layndev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=layndev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layndev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<!--  Technologies  -->
-<div style="display: inline-block"><br>
-  <a href="https://dart.dev/" target="_blank" ><img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a>
-  <a href="https://flutter.dev/" target="_blank" ><img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
-  <a href="https://kotlinlang.org/" target="_blank" >
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" >
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></a>
-  <a href="https://firebase.google.com" target="_blank" >
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" >
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
-</div>
+## Give a Star! ⭐️:
+If you liked the project or if Supervaga helped you, please give a star ⭐️
 
-## My interests 👨🏾‍💻
-- Dart 
-- Flutter 
-- .NET
-- C#
-- Asp .Net Core MVC
-- Blazor Web Assembly
-- Blazor Web Server
-- Android - Kotlin (On Jetpack Compose) 
-- NodeJs 
-- SQL Server 
-- MySQL 
-- PostgreSQL 
-- Mongo 
-- Firebase 
-- Tech Startup 
-- Code Adventure 😊
+## Technologies implemented:
 
-## Architecture
+- ASP.NET 6.0.101 (with .NET Core 6.0.101)
+    - ASP.NET WebApi Core Authentication:
+        - JWT Bearer Authentication and Firebase Social Authentication To JWT Bearer Authentication
+- Entity Framework Core 6.0.101
+- .NET Core Native DI
+- AutoMapper
+- FluentValidation
+- Fluent API
+- Swagger UI with JWT support
+
+## Architecture:
+
 - Full architecture with responsibility separation concerns, SOLID and Clean Code
-- Test Driven Development (TDD)
-- Data Driven
 - Domain Driven Design (Layers and Domain Model Pattern)
 - Domain Events
+- Unit Tests
 - Domain Notification
+- Domain Validations
 - CQRS (Imediate Consistency)
-- Repository and Generic Repository
+- Event Sourcing
+- Repository
 
-## Reach me!    
- <div> 
-  <a href = "mailto:ladino.anselmo@gmail.com" target="_blank" style="target-new: tab;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://t.me/layndev" target="_blank" style="target-new: tab;">
-    <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/ladino-anselmo-0b0898231/" target="_blank" style="target-new: tab;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a> 
-</div>
-</div>
-  
+## Features:
+
+- Robust and corporate API
+- Google, Facebbok, Apple ... Authentication
+- File Upload
+
+
+## About:
+The Supervaga Project was developed by [Ladino Anselmo](http://t.me/layndev) under the [MIT license](LICENSE).
