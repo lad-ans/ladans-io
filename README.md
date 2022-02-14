@@ -29,9 +29,8 @@
 - Flutter 
 - .NET
 - C#
-- Asp .Net Core MVC
+- Asp.Net Core
 - Blazor Web Assembly
-- Blazor Web Server
 - Android - Kotlin (On Jetpack Compose) 
 - NodeJs 
 - SQL Server 
