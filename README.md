@@ -1,11 +1,10 @@
-👋🏽 Hi! I'am Ladino Anselmo
-=====================
+👋🏽 Hi! I'am Ladino Anselmo (ladans)
 
 <!-- Statistic -->
 <div align="center">
-  <a href="https://github.com/layndev">
+  <a href="https://github.com/ladans-io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ladans-io&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layndev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladans-io&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <!--  Technologies  -->
