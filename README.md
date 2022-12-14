@@ -1,4 +1,4 @@
-## 👋🏽 Hi! I'am Ladino Anselmo (ladans)
+# 👋🏽 Hi! I'am Ladino Anselmo (ladans)
 
 <!-- Statistic -->
 <div align="center">
@@ -34,6 +34,8 @@
 - NodeJs 
 - SQL Server 
 - MySQL 
+- PHP
+- Laravel
 - PostgreSQL 
 - Mongo 
 - Firebase 
