@@ -28,23 +28,31 @@
 - Flutter 
 - .NET
 - C#
-- Asp.Net Core
-- Blazor Web Assembly
-- Android - Kotlin (On Jetpack Compose) 
-- NodeJs 
-- SQL Server 
-- MySQL 
 - PHP
-- Laravel
+- Laravel (API)
+- Asp.Net Core
+- Android
+- NodeJs 
+- Microsoft SQL Server 
+- MySQL 
 - PostgreSQL 
 - Mongo 
 - Firebase 
-- Tech Startup 
-- Code Adventure 😊
+- git
+- Github
+- Gitlab
+- Bitbucket
+- Redmine 
+- Trello
+- Microsoft Azure
+- Heroku
+...
+- Adventure 😊
 
-## Architecture
+## ARCHITECTURE ⚙️
 - Full architecture with responsibility separation concerns, SOLID and Clean Code
 - Test Driven Development (TDD)
+- Behavior Driven Development (BDD)
 - Data Driven
 - Domain Driven Design (Layers and Domain Model Pattern)
 - Domain Events
