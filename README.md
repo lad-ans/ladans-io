@@ -23,7 +23,7 @@
   <img align="center" alt="SQL Server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
 </div>
 
-## My interests 👨🏾‍💻
+## MY STACK 👨🏾‍💻
 - Dart 
 - Flutter 
 - .NET
